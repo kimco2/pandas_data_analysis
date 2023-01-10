@@ -1,3 +1,14 @@
 # pandas-challenge
-This is the homework for the module 4 challenge on Pandas DataFrames
+Hello
+
+This repository is for the pandas-challenge homework.
+
+The folder PyCitySchools holds two files:
+1 - 'Script.ipynb' - this is my Jupyter notebook that contains the code and output
+2 - 'Results_Summary.docx' - this is a written summary of the results
+
+Thanks
+Kim
+
+
 
