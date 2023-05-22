@@ -3,11 +3,6 @@
  ### **Overview**
 An early project undertaken to understand how to manipulate and analyse data in Pandas. Data from schools and their standardised test data was analysed, with trends in school performance noted.
 
-### **Folder structure**
-The folder *PyCitySchools* has two files:
- - *Script.ipynb* - contains the analysis and output
- - *Results_Summary.docx* - written summary of the results
-
 ### **Findings**
 When looking at the overall results for the 15 schools in the local government area:
 •	The average maths and reading scores are similar (70.3 and 70.0 respectively).
@@ -23,6 +18,11 @@ Aspects that can impact a school’s performance are:
 
  - The amount a school spends per student, as spending more does not result in better learning outcomes. School performance is strongest when a school spends less than $630 per student. With the spending range $585-630 producing the best performance.
     - For schools spending is $585-630 per student, 80% of students are passing both maths and reading, compared with 67% passing for schools spending $645-680 per student.
+
+### **Folder structure**
+The folder *PyCitySchools* has two files:
+ - *Script.ipynb* - contains the analysis and output
+ - *Results_Summary.docx* - written summary of the results
 
 
 <br>
