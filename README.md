@@ -1,7 +1,7 @@
 # Introduction to Pandas
 
  ### **Overview**
-An early project undertaken to understand how to manipulate and analyse data in Pandas. Data from schools and their standardised test data was analysed, with trends in school performance noted.
+An early project undertaken to understand how to manipulate and analyse data in Pandas. School data was analysed, with trends in school performance noted.
 
 ### **Findings**
 When looking at the overall results for the 15 schools in the local government area:
