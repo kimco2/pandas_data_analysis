@@ -1,7 +1,7 @@
 # Introduction to Pandas
 
  ### **Overview**
-An early project undertaken to understand how to manipulate and analyse data in Pandas. School and standardised test data was analysed and trends in school performance noted.
+An early project undertaken to understand how to manipulate and analyse data in Pandas. Data from schools and their standardised test data was analysed, with trends in school performance noted.
 
 ### **Folder structure**
 The folder *PyCitySchools* has two files:
